@@ -1,4 +1,4 @@
-# Codex Session Analyzer
+# Session-Analyzer
 
 A local Streamlit app for inspecting Codex Desktop session JSONL logs and summarizing token usage.
 
