@@ -315,9 +315,9 @@ def render_usage_statistics_view(logs: list[Path]) -> None:
 
 
 def main() -> None:
-    st.set_page_config(page_title="Codex Session Analyzer", layout="wide")
+    st.set_page_config(page_title="Session-Analyzer", layout="wide")
 
-    st.title("Codex Session Analyzer")
+    st.title("Session-Analyzer")
     st.caption("Local JSONL token usage views for Codex session logs.")
 
     with st.sidebar:
